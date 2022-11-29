@@ -1,0 +1,15 @@
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\bin\Debug\net6.0\exzamp005.exe
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\bin\Debug\net6.0\exzamp005.deps.json
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\bin\Debug\net6.0\exzamp005.runtimeconfig.json
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\bin\Debug\net6.0\exzamp005.dll
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\bin\Debug\net6.0\exzamp005.pdb
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\obj\Debug\net6.0\exzamp005.csproj.AssemblyReference.cache
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\obj\Debug\net6.0\exzamp005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\obj\Debug\net6.0\exzamp005.AssemblyInfoInputs.cache
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\obj\Debug\net6.0\exzamp005.AssemblyInfo.cs
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\obj\Debug\net6.0\exzamp005.csproj.CoreCompileInputs.cache
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\obj\Debug\net6.0\exzamp005.dll
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\obj\Debug\net6.0\refint\exzamp005.dll
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\obj\Debug\net6.0\exzamp005.pdb
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\obj\Debug\net6.0\exzamp005.genruntimeconfig.cache
+C:\Users\alexandr\Desktop\учеба\Exzamp\exzamp005\obj\Debug\net6.0\ref\exzamp005.dll
